@@ -23,7 +23,7 @@ I specialize in building secure, high-performance web ecosystems. My focus lies 
 #### 🕒 [TimeGlass: Enterprise E-Commerce](https://timeglass.vercel.app)
 * **The Problem:** Managing complex multi-item orders and secure handovers.
 * **The Solution:** Built an ecosystem featuring **item-level tracking**, OTP-verified delivery, and real-time Admin-User support via **Socket.io**.
-* **Security:** Integrated **JWT**, **Helmet**, and **Rate-limiters** to mitigate XSS and brute-force attacks.
+* **Security:** Integrated **JWT**, **Helmet**, and **Rate-limiters**
 
 #### 📊 [TaskFlow: Management System](https://taskflow-app-rose.vercel.app)
 * **The Core:** A B2B productivity engine with strictly isolated Admin and Employee portals.
